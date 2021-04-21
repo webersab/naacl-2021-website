@@ -53,3 +53,11 @@ sidebar:
    site="https://scholar.google.com/citations?user=HH1Daf4AAAAJ&hl=en"
    institution="Nanyang Technological University"
 %}
+
+## Student Chairs
+{% include committee-member.html
+   name="Sabine Weber"
+   site="https://homepages.inf.ed.ac.uk/s1782911/index.html"
+   institution="University of Edinburgh"
+%}
+
